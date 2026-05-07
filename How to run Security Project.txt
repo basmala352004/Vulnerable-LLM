@@ -1,0 +1,5 @@
+How to run Security Project
+
+c:\python314\python.exe -m pip install requests
+$env:GROQ_API_KEY="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"
+& c:\python314\python.exe "c:/Users/Basmala Khalifa/OneDrive/Desktop/Vulnerable-LLM/securedGroq.py"
